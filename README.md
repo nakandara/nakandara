@@ -1,4 +1,3 @@
-# Hi 👋, I'm Pramod Niroshan
 
 <h1 align="center">Hi 👋, I'm Pramod Niroshan</h1>
 
