@@ -21,7 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=nakandara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### 👨‍💻 About Me
 
